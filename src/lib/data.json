@@ -1,0 +1,181 @@
+{
+  "page": {
+    "metadata": {
+      "title": "Johan Ramos 🎯 | Desarrollador de Software",
+      "description": "Hola Soy Johan y soy desarrollador de software. Conoce un poco mas de mi.",
+      "icon": "https://mythings-johanramor.s3.us-east-2.amazonaws.com/icon.jpg"
+    },
+    "sections": [
+      { "id": "acerca-de-mi", "name": "Acerca de mí" },
+      { "id": "proyectos", "name": "Proyectos" },
+      { "id": "contacto", "name": "Contacto" }
+    ],
+    "socialmedia": [
+      {
+        "id": "a0bb66a21",
+        "smref": "github",
+        "url": "https://github.com/johanrmy"
+      },
+      {
+        "id": "a0ba335a9",
+        "smref": "linkedin",
+        "url": "https://www.linkedin.com/in/johanramor"
+      },
+      {
+        "id": "a33b1b3a7",
+        "smref": "instagram",
+        "url": "https://www.instagram.com/johanramor/"
+      },
+      {
+        "id": "a54a2ba66",
+        "smref": "email",
+        "url": "mailto:joh25n@gmail.com"
+      }
+    ]
+  },
+  "header": {
+    "title": {
+      "name": "Johan Ramos",
+      "career": "Desarrollador de Software"
+    },
+    "cartoon": {
+      "url": "https://mythings-johanramor.s3.us-east-2.amazonaws.com/cartoon.png",
+      "alt": "cartoon-johanramor"
+    }
+  },
+  "aboutme": {
+    "title": "Acerca de mi.",
+    "info": "Egresado de la carrera de Diseño y Desarrollo de Software,  enfocado en el desarrollo web y analisis de datos con el objetivo de aplicar tanto  mis habilidades académicas como personales.",
+    "developments": [
+      {
+        "title": "Desarrollo Frontend",
+        "tools_title": "Design tools",
+        "tools": ["HTML-CSS-JS", "React", "Tailwind", "Figma", "Next.js"],
+        "iconref": "frontend"
+      },
+      {
+        "title": "Desarrollo Backend",
+        "tools_title": "Dev tools",
+        "tools": ["NodeJS", "Express", "C# - ASP.NET Core", "Flask - Django"],
+        "iconref": "backend"
+      },
+      {
+        "title": "Otras herramientas",
+        "tools_title": "Extra tools",
+        "tools": ["Python", "PowerBI", "Git", "AWS", "PostgreSQL"],
+        "iconref": "othertools"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos.",
+    "info": "Aquí encontrarás una selección de proyectos académicos y profesionales, cada uno reflejando mi dedicación al desarrollo de software y el disfrute de crear soluciones con lo que aprendo con cada uno de ellos.",
+    "projects": [
+      {
+        "title": "Panel administrativo Descub - Espacio UNNO",
+        "description": "Panel administrativo integral para gestionar y catalogar los murales artísticos distribuidos por Lima Metropolitana, así como la gestión de cupones en la tienda.",
+        "repositorio": "https://github.com/johanrmy/descub_espaciounno-app_web.git",
+        "website": "https://descub-espaciounno.vercel.app/login",
+        "resources": {
+          "tag": "image",
+          "media": [
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/crud-murals.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/login.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/update-mural.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/dashboard-cupons.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/create-cupons.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/read-artist.png"
+          ]
+        },
+        "stack": [
+          { "name": "React", "color": "#00D8FF", "iconref": "react" },
+          { "name": "Tailwind", "color": "#008080", "iconref": "tailwind" },
+          { "name": "Express", "color": "#1A1B17", "iconref": "express" },
+          { "name": "NodeJS", "color": "#44883E", "iconref": "nodejs" },
+          { "name": "PostgreSQL", "color": "#336791", "iconref": "postgresql" },
+          { "name": "AWS", "color": "#ff9900", "iconref": "aws" }
+        ]
+      },
+      {
+        "title": "Lucantha",
+        "description": "Página web para la florería Lucantha integrando un efecto Parallax. . El sitio muestra las características de la florería, un catálogo de productos, e información de contacto y ubicación.",
+        "repositorio": "https://github.com/johanrmy/lucantha-web.git",
+        "website": "https://lucantha-floreria.vercel.app/",
+        "resources": {
+          "tag": "image",
+          "media": [
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/lucantha/head-op.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/lucantha/about.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/lucantha/grid-flowers.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/lucantha/catalog.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/lucantha/contact-map.png"
+          ]
+        },
+        "stack": [
+          { "name": "HTML", "color": "#E34F26", "iconref": "html" },
+          { "name": "CSS", "color": "#264DE4", "iconref": "css" },
+          { "name": "JavaScript", "color": "#F7DF1E", "iconref": "js" },
+          { "name": "jQuery", "color": "#0769ad", "iconref": "jquery" },
+          { "name": "AWS", "color": "#ff9900", "iconref": "aws" }
+        ]
+      },
+      {
+        "title": "Muestras de productos by ArtesAna",
+        "description": "Muestras de productos by ArtesAna exhibe una colección básica de cerámicas artesanales, además de información de la persona y contacto.",
+        "repositorio": "https://github.com/johanrmy/artesAna-web.git",
+        "website": "https://artesana-virid.vercel.app/",
+        "resources": {
+          "tag": "image",
+          "media": [
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/header.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/aboutme.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/products.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/products-2.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/contact.png"
+          ]
+        },
+        "stack": [
+          { "name": "HTML", "color": "#E34F26", "iconref": "html" },
+          { "name": "CSS", "color": "#264DE4", "iconref": "css" },
+          { "name": "JavaScript", "color": "#F7DF1E", "iconref": "js" }
+        ]
+      },
+      {
+        "title": "Espacio UNNO App",
+        "description": "Aplicativo móvil multiplataforma para la tienda Espacio UNNO con el objetivo de que los usuarios puedan obtener recompensas al recorrer los murales de Lima Metropolitana y escanear QRs.",
+        "repositorio": "https://github.com/johanrmy/descub_espaciounno.git",
+        "website": "",
+        "resources": {
+          "tag": "video",
+          "media": [
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/descub-espaciounno/portafolio-mobile.mp4"
+          ]
+        },
+        "stack": [
+          { "name": "Flutter", "color": "#027DFD", "iconref": "flutter" },
+          { "name": "PostgreSQL", "color": "#336791", "iconref": "postgresql" },
+          { "name": "AWS", "color": "#ff9900", "iconref": "aws" }
+        ]
+      }
+    ]
+  },
+  "divider": [
+    {
+      "site": "header",
+      "datum": [
+        { "id": "a0271b4a6", "value": "Construyendo sueños digitales" },
+        { "id": "a19b2b9a5", "value": "Scripts que cuentan historias" },
+        { "id": "a0bb743a1", "value": "Programar es dar vida a las ideas" }
+      ]
+    },
+    {
+      "site": "projects",
+      "datum": [
+        { "id": "a3521baa8", "value": "Desarrollo de paginas web 💻" },
+        { "id": "a00bb39a2", "value": "Maquetación de aplicaciones 🎨" },
+        { "id": "a052b3b6a", "value": "Mantenimiento de backend 👨🏻‍💻" },
+        { "id": "ab53ba034", "value": "Análisis y despliegue de datos 📊" }
+      ]
+    }
+  ]
+}
