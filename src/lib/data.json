@@ -97,6 +97,44 @@
         ]
       },
       {
+        "title": "Clara Yolks",
+        "description": "Demo inicial de la página web personal de Clara Yolks, una artista peruana. El sitio incluye una galería de obras, información sobre la artista y un formulario de contacto.",
+        "repositorio": "#",
+        "website": "https://clarayolks-web.vercel.app/",
+        "resources": {
+          "tag": "image",
+          "media": [
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/clara-yolks/main.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/clara-yolks/music.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/clara-yolks/videos.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/clara-yolks/contact.png"
+          ]
+        },
+        "stack": [
+          { "name": "Nextjs", "color": "#171717", "iconref": "nextjs" },
+          { "name": "AWS", "color": "#ff9900", "iconref": "aws" }
+        ]
+      },
+      {
+        "title": "SouthFire",
+        "description": "Página web para la empresa SouthFire que ofrece servicios de seguridad contra incendios. El sitio incluye un catálogo de productos, información sobre la empresa y un formulario de contacto.",
+        "repositorio": "#",
+        "website": "https://southfire.us/",
+        "resources": {
+          "tag": "image",
+          "media": [
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/southfire/header.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/southfire/products.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/southfire/catalogo.png",
+            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/southfire/contact.png"
+          ]
+        },
+        "stack": [
+          { "name": "Nextjs", "color": "#171717", "iconref": "nextjs" },
+          { "name": "Express", "color": "#1A1B17", "iconref": "express" }
+        ]
+      },
+      {
         "title": "Lucantha",
         "description": "Página web para la florería Lucantha integrando un efecto Parallax. . El sitio muestra las características de la florería, un catálogo de productos, e información de contacto y ubicación.",
         "repositorio": "https://github.com/johanrmy/lucantha-web.git",
@@ -117,27 +155,6 @@
           { "name": "JavaScript", "color": "#F7DF1E", "iconref": "js" },
           { "name": "jQuery", "color": "#0769ad", "iconref": "jquery" },
           { "name": "AWS", "color": "#ff9900", "iconref": "aws" }
-        ]
-      },
-      {
-        "title": "Muestras de productos by ArtesAna",
-        "description": "Muestras de productos by ArtesAna exhibe una colección básica de cerámicas artesanales, además de información de la persona y contacto.",
-        "repositorio": "https://github.com/johanrmy/artesAna-web.git",
-        "website": "https://artesana-virid.vercel.app/",
-        "resources": {
-          "tag": "image",
-          "media": [
-            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/header.png",
-            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/aboutme.png",
-            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/products.png",
-            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/products-2.png",
-            "https://mythings-johanramor.s3.us-east-2.amazonaws.com/portafolio/projects/artesAna/contact.png"
-          ]
-        },
-        "stack": [
-          { "name": "HTML", "color": "#E34F26", "iconref": "html" },
-          { "name": "CSS", "color": "#264DE4", "iconref": "css" },
-          { "name": "JavaScript", "color": "#F7DF1E", "iconref": "js" }
         ]
       },
       {

@@ -22,6 +22,7 @@ import { TbBrandJavascript } from "react-icons/tb";
 import { MdOutlineAlternateEmail } from "react-icons/md";
 import { FaRegCheckCircle } from "react-icons/fa";
 import { MdOutlineErrorOutline } from "react-icons/md";
+import { RiNextjsFill } from "react-icons/ri";
 
 type IconRefType =
   | "frontend"
@@ -31,6 +32,7 @@ type IconRefType =
   | "tailwind"
   | "express"
   | "nodejs"
+  | "nextjs"
   | "postgresql"
   | "html"
   | "css"
@@ -54,6 +56,7 @@ const iconRef: Record<IconRefType, JSX.Element> = {
   tailwind: <SiTailwindcss size={20} />,
   express: <SiExpress size={20} />,
   nodejs: <FaNodeJs size={20} />,
+  nextjs: <RiNextjsFill size={20} />,
   postgresql: <BiLogoPostgresql size={20} />,
   html: <SiHtml5 size={20} />,
   css: <SiCss3 size={20} />,
